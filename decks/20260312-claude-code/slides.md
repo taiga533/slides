@@ -200,7 +200,7 @@ layout: center
 
 ---
 layout: image-right
-image: ./IMG_2674.jpg
+image: IMG_2674.jpg
 ---
 
 # 自己紹介
