@@ -79,7 +79,7 @@ layout: center
 
 # Otelによる観測システムを運用する
 
-<img src="./otel.png" class="w-full h-auto" style="filter: none; opacity: 1;" />
+<img src="./otel.png" class="h-auto" style="filter: none; opacity: 1;" width="50%" />
 
 ---
 layout: center
