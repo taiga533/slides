@@ -99,7 +99,7 @@ layout: center
 - ダッシュボードは全員見れるので誰がヘビーユーザーか分かる
 - ナレッジ共有会が開かれるように
 
-<img src="./fun-done.png" class="w-auto h-auto" style="filter: none; opacity: 1;" />
+<img src="./fun-done.png" class="w-3/4 h-auto" style="filter: none; opacity: 1;" />
 
 ---
 layout: center
