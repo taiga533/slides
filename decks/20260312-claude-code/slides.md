@@ -7,7 +7,7 @@ transition: slide-left
 mdc: true
 ---
 
-# Claude Codeを配ったのに使われない問題への処方箋
+# Claude Codeを配ったのに<br>使われない問題への処方箋
 
 
 <div class="abs-br m-6 text-sm opacity-75">
@@ -158,12 +158,10 @@ layout: center
 - BacklogにあるドキュメントをMarkdownとして参照できるように
 
 ---
-
----
 layout: center
 ---
 
-## 利用申請する会を作る
+# 利用申請する会を作る
 
 ---
 layout: center
@@ -201,55 +199,25 @@ layout: center
 - 利用申請のハードルを下げる
 
 ---
-layout: two-cols
+layout: image-right
+image: ./IMG_2674.jpg
 ---
 
 # 自己紹介
 
-<div class="mt-4 space-y-4">
+****
 
-<div class="flex items-center gap-5">
-  <div class="relative shrink-0">
-    <div class="w-24 h-24 rounded-full overflow-hidden ring-4 ring-[#4EC5D4] ring-offset-2 ring-offset-white dark:ring-offset-gray-900 shadow-xl">
-      <!-- <img src="./avatar.jpg" alt="川崎 大河" class="w-full h-full object-cover" /> -->
-    </div>
-  </div>
-  <div>
-    <div class="text-2xl font-bold">川崎 大河</div>
-    <div class="opacity-70 mt-1">CTO室</div>
-  </div>
-</div>
-
-<div class="mt-6 space-y-3">
+**名前**  
+川崎 大河
 
 **会社**  
 ラクーンホールディングス株式会社
 
 **役割**  
-社内の技術的な仕組みづくり
+CTO室チームリーダー  
+会社の技術的な仕組み作りが主な仕事
 
-</div>
+### X: kawasaki_533
 
-</div>
+<img src="./x-qr.png" class="w-32 h-auto pt-3">
 
-::right::
-
-<div class="pl-8 mt-12">
-
-## ラクーンホールディングスとは
-
-<div class="space-y-3 mt-4 text-sm">
-
-<div class="p-3 bg-blue-50 dark:bg-blue-900/30 rounded border border-blue-200 dark:border-blue-700">
-  🛒 <strong>SUPER DELIVERY</strong><br>
-  <span class="opacity-70">企業間 EC プラットフォーム</span>
-</div>
-
-<div class="p-3 bg-green-50 dark:bg-green-900/30 rounded border border-green-200 dark:border-green-700">
-  💳 <strong>Paid</strong><br>
-  <span class="opacity-70">企業間後払い決済サービス</span>
-</div>
-
-</div>
-
-</div>
