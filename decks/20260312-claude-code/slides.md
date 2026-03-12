@@ -211,7 +211,7 @@ layout: two-cols
 <div class="flex items-center gap-5">
   <div class="relative shrink-0">
     <div class="w-24 h-24 rounded-full overflow-hidden ring-4 ring-[#4EC5D4] ring-offset-2 ring-offset-white dark:ring-offset-gray-900 shadow-xl">
-      <img src="./avatar.jpg" alt="川崎 大河" class="w-full h-full object-cover" />
+      <!-- <img src="./avatar.jpg" alt="川崎 大河" class="w-full h-full object-cover" /> -->
     </div>
   </div>
   <div>
