@@ -200,7 +200,7 @@ layout: center
 
 ---
 layout: image-right
-image: IMG_2674.jpg
+image: https://github.com/taiga533/slides/blob/main/decks/20260312-claude-code/IMG_2674.jpg?raw=true
 ---
 
 # 自己紹介
